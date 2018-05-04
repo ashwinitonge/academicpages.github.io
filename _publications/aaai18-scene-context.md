@@ -1,7 +1,7 @@
 ---
-title: "On the Use of Deep Features for Online Image Sharing"
+title: "Uncovering Scene Context for Predicting Privacy of Online Shared Images"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/aaai18-scene-context
 excerpt: 
 date: 04-24-2018
 venue: 'WWW 2018 Companion Proceedings of the The Web Conference, Lyon, France.'
