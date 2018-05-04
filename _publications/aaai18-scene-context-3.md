@@ -1,7 +1,7 @@
 ---
 title: "Uncovering Scene Context for Predicting Privacy of Online Shared Images"
 collection: publications
-permalink: /publication/aaai18-scene-context
+permalink: /publication/aaai18-scene-context-3
 excerpt: 
 date: 02-02-2018
 venue: '32nd American Association for Artificial Intelligence (AAAI 2018), New Orleans, USA.'
