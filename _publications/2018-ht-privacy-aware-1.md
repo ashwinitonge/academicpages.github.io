@@ -1,7 +1,7 @@
 ---
 title: "Privacy-Aware Tag Recommendation for Image Sharing"
 collection: publications
-permalink: /publication/2018-ht-privacy-aware
+permalink: /publication/2018-ht-privacy-aware-1
 excerpt: 
 date: 07-12-2018
 venue: '29th ACM Conference on Hypertext and Social Media, Baltimore, MD, USA'
