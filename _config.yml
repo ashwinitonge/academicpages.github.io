@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Ashwini Tonge"
   avatar           : "profile.png"
-  bio              : "Research Assistant at Kansas State University"
+  bio              : "Research Assistant"
   location         : "Secane, PA"
-  employer         :
+  employer         : "Kansas State University"
   googlescholar    : "https://scholar.google.com/citations?user=SEtrCC8AAAAJ&hl=en"
-  email            :
+  email            : "atonge@ksu.edu"
   uri              :
   bitbucket        :
   codepen          :
