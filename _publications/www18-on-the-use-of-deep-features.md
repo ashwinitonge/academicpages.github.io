@@ -1,7 +1,7 @@
 ---
 title: "On the Use of Deep Features for Online Image Sharing"
 collection: publications
-permalink: /publication/MSM18-on-the-use-of-deep-features
+permalink: /publication/www18-on-the-use-of-deep-features
 excerpt: 
 date: 04-24-2018
 venue: 'WWW 2018 Companion Proceedings of the The Web Conference, Lyon, France.'
