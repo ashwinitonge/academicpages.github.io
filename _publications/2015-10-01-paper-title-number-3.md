@@ -6,7 +6,7 @@ excerpt:
 date: 04-24-2018
 venue: 'WWW 2018 Companion Proceedings of the The Web Conference, Lyon, France.'
 paperurl: 
-citation: 'Ashwini Tonge and Cornelia Caragea. (2018). &quot;On the Use of Deep Features for Online Image Sharing.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Ashwini Tonge and Cornelia Caragea. (2018). &quot;On the Use of Deep Features for Online Image Sharing.&quot; <i>In Companion Proceedings of the The Web Conference 2018</i>. 1(3).'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
