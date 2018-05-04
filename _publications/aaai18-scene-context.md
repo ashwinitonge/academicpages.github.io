@@ -3,13 +3,10 @@ title: "Uncovering Scene Context for Predicting Privacy of Online Shared Images"
 collection: publications
 permalink: /publication/aaai18-scene-context
 excerpt: 
-date: 04-24-2018
-venue: 'WWW 2018 Companion Proceedings of the The Web Conference, Lyon, France.'
+date: 02-02-2018
+venue: '32nd American Association for Artificial Intelligence (AAAI 2018), New Orleans, USA.'
 paperurl: 
-citation: 'Ashwini Tonge and Cornelia Caragea. (2018). &quot;On the Use of Deep Features for Online Image Sharing.&quot; <i>In Companion Proceedings of the The Web Conference 2018 </i>. 1(3).'
+citation: 'Ashwini Tonge and Cornelia Caragea. (2018). &quot;Uncovering Scene Context for Predicting Privacy of Online Shared Images.&quot; <i>In Proceedings of the 32nd American Association for Artificial Intelligence (AAAI 2018), Student Abstract and Poster Program, USA, 2018 </i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Downloads: [paper](http://academicpages.github.io/files/paper3.pdf)
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
