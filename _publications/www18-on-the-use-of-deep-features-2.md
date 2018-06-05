@@ -7,4 +7,4 @@ venue: 'Companion Proceedings of the The Web Conference'
 citation: '<b>Ashwini Tonge</b>, & Cornelia Caragea. (2018). On the Use of Deep Features for Online Image Sharing. <i>In Companion Proceedings of the The Web Conference 2018</i>, 329-343.'
 ---
 
-Downloads: [paper](http://ashwinitonge.github.io/files/privacy-aware-tag.pdf), [code](https://github.com/ashwinitonge/privacy-aware-tag-rec)
+Downloads: [paper](http://ashwinitonge.github.io/files/www-workshop.pdf), [code](https://github.com/ashwinitonge/privacy-aware-tag-rec)
