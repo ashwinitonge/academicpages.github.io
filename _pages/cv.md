@@ -29,10 +29,10 @@ Work experience
 * Graduate Intern: May 2017 – Aug 2017
   * Intel Corporation
   * Bot solutions venture
-        - Developed age classification using skeleton based features.
-        - Calculated depth of an object using multiple cameras.
+      * Developed age classification using skeleton based features.
+      * Calculated depth of an object using multiple cameras.
   * Health and Wellness solutions venture
-        - Recommended solutions based on user’s profile obtained from an external customer.
+      * Recommended solutions based on user’s profile obtained from an external customer.
   * Supervisor: Erin Carroll, Daniel Weinstein
 
 * Research Assistant: June 2015 - May 2017
@@ -43,35 +43,35 @@ Work experience
 * Research Assistant: Sept 2014 - June 2015
   * University of North Texas
   * Untangled
-        - Worked on a game designed to uncover human mapping strategies to develop energy efficient electrical circuits. 
-          In that, players are required to form a compact grid for the graphs.
-        - Developed an algorithm to obtain compact grid for structurally similar graphs.
+      * Worked on a game designed to uncover human mapping strategies to develop energy efficient electrical circuits. 
+        In that, players are required to form a compact grid for the graphs.
+      * Developed an algorithm to obtain compact grid for structurally similar graphs.
   * Supervisor: Dr. Gayatri Mehta
 
 * Software Engineer: Oct 2012 - July 2014
   * Quick Heal Technologies Pvt. Ltd., India
   * Malware scan engine using Machine Learning
-        - Built a malware scan engine using a machine learning algorithm.
-        - Designed an automatic filter generation tool for given malicious clusters.
-        - Performed unit testing, bug fixing and code reviews.
+      * Built a malware scan engine using a machine learning algorithm.
+      * Designed an automatic filter generation tool for given malicious clusters.
+      * Performed unit testing, bug fixing and code reviews.
   * Supervisor: Harshad Bhujbal	
  
 * Project Engineer: Mar 2011 - Sept 2012
   * Centre for Development of Advanced Computing (C-DAC), India
   * Image search
-        - Developed and maintained face and logo detection modules for a content-based image retrieval.
-        - Designed an algorithm for fast rotation invariant face detection based on contours.
-        - Conducted knowledge transfer sessions and mentored interns on image processing projects.
+      * Developed and maintained face and logo detection modules for a content-based image retrieval.
+      * Designed an algorithm for fast rotation invariant face detection based on contours.
+      * Conducted knowledge transfer sessions and mentored interns on image processing projects.
   * Supervisor: Sudesh Mudliar	
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning, Machine Learning, and Computer Vision
+* Languages
+  * JAVA
+  * MATLAB
+  * Python
+* CAFFE, Word2Vec, Weka, WordNet, OpenCV
 
 Publications
 ======
@@ -85,12 +85,14 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Achievements and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* AAAI Conference on Artificial Intelligence Scholar 2018 ($1000).
+* KSU GSC Travel Award 2018 ($800).
+* Grace Hopper Celebration (GHC) 2016 Scholar ($900).
+* Scholarship from AAAI Conference on Artificial Intelligence 2016 ($250).
+* Toulouse Graduate School (TGS) Tuition Benefit Scholarship 2015-16 ($5000), 2016-17 ($6000).
+* Academic Achievement Scholarship 2016-17 ($1000).
+* TGS Summer Scholarship 2016 ($1,419.45).
+* College of Engineering Graduate Scholarship 2014-15 ($5000).
+
