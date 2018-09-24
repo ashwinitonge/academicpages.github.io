@@ -1,5 +1,5 @@
 ---
-title: "Image Privacy Prediction Using Deep Features."
+title: "Image Privacy Prediction Using Deep Features"
 collection: publications
 permalink: /publication/aaai16-sa
 excerpt: 
