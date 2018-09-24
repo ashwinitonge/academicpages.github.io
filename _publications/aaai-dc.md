@@ -1,5 +1,5 @@
 ---
-title: "Identifying Private Content for Online Image Sharing."
+title: "Identifying Private Content for Online Image Sharing"
 collection: publications
 permalink: /publication/aaai-dc
 excerpt: 
