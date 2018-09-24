@@ -44,19 +44,15 @@ Work experience
       * Recommended solutions based on user’s profile obtained from an external customer.
   * Supervisor: Erin Carroll, Daniel Weinstein
 
-* <strong>Research Assistant</strong>: June 2015 - May 2017
+* <strong>Research Assistant</strong>: Sept 2014 - May 2017
   * <strong>University of North Texas</strong>
   * Image privacy prediction using Deep Learning
-  * Supervisor: Dr. Cornelia Caragea
-  
-* <strong>Research Assistant</strong>: Sept 2014 - June 2015
-  * <strong>University of North Texas</strong>
   * Untangled
       * Worked on a game designed to uncover human mapping strategies to develop energy efficient electrical circuits. 
         In that, players are required to form a compact grid for the graphs.
-      * Developed an algorithm to obtain compact grid for structurally similar graphs.
-  * Supervisor: Dr. Gayatri Mehta
-
+      * Developed an algorithm to obtain compact grid for structurally similar graphs.  
+  * Supervisor: Dr. Cornelia Caragea, Dr. Gayatri Mehta
+  
 * <strong>Software Engineer</strong>: Oct 2012 - July 2014
   * <strong>Quick Heal Technologies Pvt. Ltd., India</strong>
   * Malware scan engine using Machine Learning
