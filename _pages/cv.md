@@ -20,10 +20,10 @@ Work experience
 * Research Assistant: August 2017 - present
   * Kansas State University
   * Image privacy prediction using Deep Learning
-        - Achieved an accuracy of 88% that is better than the state of the art results.
-        - Developed a mechanism for privacy-aware tag recommendation to reduce human effort.
-        - Incorporated context of the image for privacy prediction.
-        - Identified the set of most competent features for a target image.
+      * Achieved an accuracy of 88% that is better than the state of the art results.
+      * Developed a mechanism for privacy-aware tag recommendation to reduce human effort.
+      * Incorporated context of the image for privacy prediction.
+      * Identified the set of most competent features for a target image.
   * Supervisor: Dr. Cornelia Caragea
 
 * Graduate Intern: May 2017 – Aug 2017
