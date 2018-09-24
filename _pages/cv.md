@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Engineering, Nagpur University, India, 2010
-* M.S. in Computer Science, University of North Texas, 2017
 * Ph.D in Computer Science, Kansas State University, 2019 (expected)
+* M.S. in Computer Science, University of North Texas, 2017
+* B.S. in Computer Engineering, Nagpur University, India, 2010
 
 Skills
 ======
