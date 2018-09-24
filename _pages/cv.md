@@ -15,6 +15,15 @@ Education
 * M.S. in Computer Science, University of North Texas, 2017
 * Ph.D in Computer Science, Kansas State University, 2019 (expected)
 
+Skills
+======
+* Deep Learning, Machine Learning, and Computer Vision
+* Languages
+  * JAVA
+  * MATLAB
+  * Python
+* CAFFE, Word2Vec, Weka, WordNet, OpenCV
+
 Work experience
 ======
 * Research Assistant: August 2017 - present
@@ -63,15 +72,6 @@ Work experience
       * Designed an algorithm for fast rotation invariant face detection based on contours.
       * Conducted knowledge transfer sessions and mentored interns on image processing projects.
   * Supervisor: Sudesh Mudliar	
-
-Skills
-======
-* Deep Learning, Machine Learning, and Computer Vision
-* Languages
-  * JAVA
-  * MATLAB
-  * Python
-* CAFFE, Word2Vec, Weka, WordNet, OpenCV
 
 Publications
 ======
