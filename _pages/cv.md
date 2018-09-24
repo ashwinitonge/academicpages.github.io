@@ -26,7 +26,8 @@ Skills
 
 Work experience
 ======
-* <strong>Research Assistant</strong>: Kansas State University: August 2017 - present
+* <strong>Research Assistant</strong>: August 2017 - present
+  * <strong>Kansas State University</strong>
   * Image privacy prediction using Deep Learning
       * Achieved an accuracy of 88% that is better than the state of the art results.
       * Developed a mechanism for privacy-aware tag recommendation to reduce human effort.
@@ -35,7 +36,7 @@ Work experience
   * Supervisor: Dr. Cornelia Caragea
 
 * <strong>Graduate Intern</strong>: May 2017 – Aug 2017
-  * Intel Corporation
+  * <strong>Intel Corporation</strong>
   * Bot solutions venture
       * Developed age classification using skeleton based features.
       * Calculated depth of an object using multiple cameras.
@@ -44,12 +45,12 @@ Work experience
   * Supervisor: Erin Carroll, Daniel Weinstein
 
 * <strong>Research Assistant</strong>: June 2015 - May 2017
-  * University of North Texas
+  * <strong>University of North Texas</strong>
   * Image privacy prediction using Deep Learning
   * Supervisor: Dr. Cornelia Caragea
   
 * <strong>Research Assistant</strong>: Sept 2014 - June 2015
-  * University of North Texas
+  * <strong>University of North Texas</strong>
   * Untangled
       * Worked on a game designed to uncover human mapping strategies to develop energy efficient electrical circuits. 
         In that, players are required to form a compact grid for the graphs.
@@ -57,7 +58,7 @@ Work experience
   * Supervisor: Dr. Gayatri Mehta
 
 * <strong>Software Engineer</strong>: Oct 2012 - July 2014
-  * Quick Heal Technologies Pvt. Ltd., India
+  * <strong>Quick Heal Technologies Pvt. Ltd., India</strong>
   * Malware scan engine using Machine Learning
       * Built a malware scan engine using a machine learning algorithm.
       * Designed an automatic filter generation tool for given malicious clusters.
@@ -65,7 +66,7 @@ Work experience
   * Supervisor: Harshad Bhujbal	
  
 * <strong>Project Engineer</strong>: Mar 2011 - Sept 2012
-  * Centre for Development of Advanced Computing (C-DAC), India
+  * <strong>Centre for Development of Advanced Computing (C-DAC), India</strong>
   * Image search
       * Developed and maintained face and logo detection modules for a content-based image retrieval.
       * Designed an algorithm for fast rotation invariant face detection based on contours.
