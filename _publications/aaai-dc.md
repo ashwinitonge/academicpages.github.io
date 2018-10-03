@@ -9,4 +9,4 @@ paperurl:
 citation: '<strong>Ashwini Tonge</strong>. (2018). &quot;Identifying Private Content for Online Image Sharing.&quot; <i>In Proceedings of the 32nd
 American Association for Artificial Intelligence (AAAI 2018), Doctoral Consortium, USA, 2018 </i>.'
 ---
-Downloads: [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17065/16443)
+Downloads: [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPDFInterstitial/17065/16443), [poster](http://ashwinitonge.github.io/files/posterdc-identifying-private.pdf), [slides](http://ashwinitonge.github.io/files/dc.pptx)
